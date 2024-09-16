@@ -24,5 +24,5 @@ A weather app built with HTML, CSS, and JavaScript that fetches weather data fro
 
 1. Clone the repo:
    ```bash
-   git clone https:
+   git clone https: https://github.com/Ragul-05/Weather-app.git
 
